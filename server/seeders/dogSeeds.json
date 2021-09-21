@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Boxer",
+    "breed": "Border Collie",
+    "image": "images/dogs/dog1.jpg",
+    "description": "I'm an approx. 2 year old male. I love, love, love to PLAY! I play well with humans, kids and other dogs.",
+    "age": 4,
+    "spaynuet": true
+  },
+  {
+    "id": 2,
+    "name": "Caroline",
+    "breed": "Terrier",
+    "image": "images/dogs/dog2.jpg",
+    "description": "coming soon",
+
+    "age": 1,
+    "spaynuet": false
+  },
+  {
+    "id": 3,
+    "name": "Bubbles",
+    "breed": "Shih Tzu",
+    "image": "images/dogs/dog3.jpg",
+    "description": "coming soon",
+
+    "age": 6,
+    "spaynuet": true
+  },
+  {
+    "id": 4,
+    "name": "Shindo",
+    "breed": "Shiba Inu",
+    "image": "images/dogs/dog4.jpg",
+    "description": "coming soon",
+
+    "age": 4,
+    "spaynuet": true
+  },
+  {
+    "id": 5,
+    "name": "Beef",
+    "breed": "Beagle",
+    "image": "images/dogs/dog5.jpg",
+    "description": "coming soon",
+
+    "age": 9,
+    "spaynuet": true
+  },
+  {
+    "id": 6,
+    "name": "Henry & Ford",
+    "breed": "Miniature Schnauzer",
+    "image": "images/dogs/dog6.jpg",
+    "description": "coming soon",
+
+    "age": 3,
+    "spaynuet": true
+  },
+  {
+    "id": 7,
+    "name": "Pinecone",
+    "breed": "Husky",
+    "image": "images/dogs/dog7.jpg",
+    "description": "coming soon",
+
+    "age": 1,
+    "spaynuet": false
+  },
+  {
+    "id": 8,
+    "name": "Sammy",
+    "breed": "Terrier",
+    "image": "images/dogs/dog8.jpg",
+    "description": "coming soon",
+
+    "age": 3,
+    "spaynuet": true
+  },
+  {
+    "id": 9,
+    "name": "Beau",
+    "breed": "Shepherd",
+    "image": "images/dogs/dog9.jpg",
+    "description": "coming soon",
+
+    "age": 7,
+    "spaynuet": true
+  },
+  {
+    "id": 10,
+    "name": "Jersey",
+    "breed": "Miniature Pinscher",
+    "image": "images/dogs/dog10.jpg",
+    "description": "coming soon",
+
+    "age": 6,
+    "spaynuet": true
+  }
+]

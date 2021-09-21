@@ -1,0 +1,114 @@
+/* Global Colors*/
+:root {
+--melon: #fec5bbff;
+--pale-pink: #fcd5ceff;
+--misty-rose: #fae1ddff;
+--isabelline: #f8edebff;
+--platinum: #e8e8e4ff;
+--alabaster: #d8e2dc;
+--linen: #ece4dbff;
+--champagne-pink: #ffe5d9ff;
+--peach-puff: #ffd7baff;
+--peach: #fec89aff;
+/* palette 2 colors*/
+--danger: #ec3f4a;
+--danger-dk: #c92f39;
+--danger-lt: #f64954;
+--success: #86ba90ff;
+--success-dk: rgb(99, 145, 108);
+--success-lt: rgb(156, 201, 165);
+--pale-yellow: #f5f3bb;
+--tan: #dfa06eff;
+--warning: #e87458;
+--warning-dk: #dd7f68;
+--warning-lt: #f09882;
+--burgundy: #412722;
+--text-dark: #3B3D3C;
+--text-md: #787D7A;
+--dog-orange: #f7931e;
+}
+ a {
+     color: var(--burgundy);
+ }
+
+ a:hover {
+    color: var(--dog-orange);
+ }
+
+
+ .nav-link a {
+color: var(--text-dark) !important;
+ }
+
+.nav .navbar a:hover {
+color: var(--text-md);
+ }
+
+ .inactive {
+    color: var(--text-dark);
+    text-decoration: none;
+}
+
+.active {
+    color: var(--text-md);
+    text-decoration: none;
+  }
+
+/* Navbar Colors*/ 
+.bg-light {
+    background-color: var(--alabaster) !important;
+}
+
+.footer {
+    background-color: #efefef;
+}
+
+.alert-danger {
+    background-color: var(--danger-lt);
+    color: white;
+}
+
+ .btn-close {
+    position: absolute;
+    top: 0;
+    right: 50;
+    z-index: 2;
+    padding: 1.25rem 1rem;
+}
+/* Button Colors*/
+.btn-danger {
+    color: #fff;
+    background-color: var(--danger);
+    border-color: var(--danger-dk);
+}
+
+.btn-danger:hover {
+    color: #fff;
+    background-color: var(--danger-lt);
+    border-color: var(--danger);
+}
+
+.btn-warning {
+    color: #fff;
+    background-color: var(--warning);
+    border-color: var(--warning-dk);
+}
+
+.btn-warning:hover {
+    color: #fff;
+    background-color: var(--warning-lt);
+    border-color: var(--warning);
+}
+
+
+.btn-dog {
+    color: #fff;
+    background-color: var(--dog-orange);
+    border-color: var(--warning-dk);
+}
+
+.btn-dog:hover {
+    color: #fff;
+    background-color: var(--warning-lt);
+    border-color: var(--warning);
+}
